@@ -11,5 +11,5 @@ func main(){
 			sum += i
 		}
 	}
-	fmt.Printf("Sum: %d", sum)
+	fmt.Printf("Sum: %d\n", sum)
 }
